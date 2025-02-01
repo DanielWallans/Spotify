@@ -2,7 +2,8 @@
 
 Este projeto é uma imersão frontend da Alura, onde recriamos a interface do Spotify utilizando HTML, CSS e JavaScript.
 
-![Imagem do Projeto](src/assets/image/Spotifybright.png)
+
+![spotify bright](https://github.com/user-attachments/assets/cdbc5def-f8ba-4a33-a9c1-69d53e78bc09)
 
 ## Estrutura do Projeto
 
@@ -67,4 +68,4 @@ O projeto inclui uma funcionalidade de modo escuro que altera a aparência da p�
 Este projeto foi desenvolvido durante a imersão frontend da Alura.
 
 
-![Imagem do Projeto com Dark Mode](src/assets/image/SpotifyDarkmod.png)
+![Spotify Dark mod](https://github.com/user-attachments/assets/4f298821-c5e8-4c86-8c56-d715f76650a0)
