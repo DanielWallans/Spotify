@@ -1,0 +1,16 @@
+:root{
+    /* FONT */
+    --font-dm-sans:"DM Sans", sans-serif;
+
+    /* COLORS */
+    --bg-icon:#000000;
+    --bg-arrow-color: #c9c9c9;
+
+     /* Dark Mode Colors */
+     --bg-color-dark: #121212; /* Fundo escuro principal */
+  --bg-color-dark-secondary: #1e1e1e; /* Fundo secundário */
+  --text-color-dark: #e0e0e0; /* Texto claro */
+  --text-color-dark-secondary: #b3b3b3; /* Texto secundário */
+  --accent-color: #535353; /* Cor de destaque (ex.: botões) */
+  --shadow-dark: 8px 8px 16px rgba(0, 0, 0, 0.5), -8px -8px 16px rgba(255, 255, 255, 0.05);
+}
